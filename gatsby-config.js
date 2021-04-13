@@ -6,13 +6,5 @@
 
 module.exports = {
   /* Your site config here */
-  plugins: [
-    {
-      resolve: `gatsby-source-filesystem`,
-      options: {
-        name: `results`,
-        path: `${__dirname}/content/results`,
-      },
-    },
-  ],
+  plugins: [],
 }
