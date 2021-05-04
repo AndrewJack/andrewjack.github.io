@@ -6,6 +6,7 @@
     "build": "gatsby build",
     "clean": "gatsby clean",
     "develop": "gatsby develop",
+    "lint": "prettier --check \"**/*.{js,jsx,ts,tsx,json,md}\"",
     "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
     "start": "gatsby develop"
   },

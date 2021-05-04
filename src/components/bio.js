@@ -30,7 +30,9 @@ const Bio = () => {
   return (
     <div className="bio">
       <p>
-        {social?.twitter ? <a href={`https://twitter.com/${social?.twitter}`}>Twitter</a> : null}
+        {social?.twitter ? (
+          <a href={`https://twitter.com/${social?.twitter}`}>Twitter</a>
+        ) : null}
         {" • "}
         {social?.linkedin ? <a href={social?.linkedin}>LinkedIn</a> : null}
         {" • "}
