@@ -1,4 +1,4 @@
-name: Gatsby Build and Deploy to GitHub Pages on Push
+name: Test pull requests
 
 on:
   pull_request:
