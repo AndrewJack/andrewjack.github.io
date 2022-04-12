@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-index-js",
+    "path": "/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Andrew's Blog"}},"allMarkdownRemark":{"nodes":[{"excerpt":"This is my first post on my new blog! How exciting! I’m sure I’ll write a lot more interesting things in the future. Oh, and here’s a great…","fields":{"slug":"/coming-soon/"},"frontmatter":{"date":"May 02, 2020","title":"Coming soon","description":"Check back soon for more content"}}]}},"pageContext":{}},
+    "staticQueryHashes": ["2841359383","3010100627"]}
